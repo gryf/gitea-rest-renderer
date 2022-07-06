@@ -37,6 +37,13 @@ Unfortunately, you'll need to repeat those steps every time you'd like to
 update gitea.
 
 
+License
+-------
+
+This project is licensed under the MIT License. See the LICENSE file for the
+full license text.
+
+
 .. _docutils: https://docutils.sourceforge.io
 .. _gitea: https://gitea.io
 .. _same as documented: https://docs.gitea.io/en-us/install-with-docker/
