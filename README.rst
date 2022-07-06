@@ -1,7 +1,9 @@
 Restructured text renderer for Gitea
 ====================================
 
-This is simple custom rst2html5 renderer for `Gitea`_.
+This is simple custom rst2html5 renderer for `Gitea`_ for reStructuredText
+files.
+
 
 Installation
 ------------
@@ -16,7 +18,9 @@ that we tag the image with ``:rst``:
 
    $ docker build -t gitea:rst -f Dockerfile .
 
-Procedure of running dockerized deployment is `same as documented`_.
+Procedure of running dockerized deployment is `same as documented`_ - of course
+you'll need to change line with image to align newly created altered image.
+
 
 Now, as you have it up and running, there is still a need for altering
 configuration. Stop the container, and alter file
